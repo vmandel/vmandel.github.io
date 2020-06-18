@@ -40,3 +40,5 @@ Ori:
 > When my name was Ori.
 > It was the will of the wisps
 > That life begin anew.
+
+<img src="https://i.pinimg.com/originals/97/a0/bd/97a0bdf7305daaeb3ec7ef462a173cd4.jpg"/>
