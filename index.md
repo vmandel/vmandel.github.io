@@ -36,8 +36,7 @@ Der Geisterbaum ruft Jahre später nach Ori, der dem Ruf aber nicht nachkommt. D
 	* Kämpfen
 
 Ori:
-> 𝙄 𝙚𝙢𝙗𝙧𝙖𝙘𝙚𝙙 𝙩𝙝𝙚 𝙡𝙞𝙜𝙝𝙩
-> 𝙒𝙝𝙚𝙣 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙬𝙖𝙨 𝙊𝙧𝙞.
-
-> 𝙄𝙩 𝙬𝙖𝙨 𝙩𝙝𝙚 𝙬𝙞𝙡𝙡 𝙤𝙛 𝙩𝙝𝙚 𝙬𝙞𝙨𝙥𝙨.
-> 𝙏𝙝𝙖𝙩 𝙡𝙞𝙛𝙚 𝙗𝙚𝙜𝙞𝙣 𝙖𝙣𝙚w.
+> I embraced the light
+> When my name was Ori.
+> It was the will of the wisps
+> That life begin anew.
