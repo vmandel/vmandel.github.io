@@ -10,3 +10,27 @@ Ori verzeiht schnell, ist hilfsbereit und gutherzig.
 
 Ori wurde vor langer Zeit in einem Sturm, der eine Kette verheerender Ereignisse in Gang setzte, vom Geisterbaum getrennt und von dem Bär- und Rabenähnlichen Wesen Naru adoptiert.
 Der Geisterbaum ruft Jahre später nach Ori, der dem Ruf aber nicht nachkommt. Dem Wald geht es immer schlechter und er beginnt zu sterben...
+
+## Charaktereigenschaften und Allgemeines
+* Waldgeist
+* Lichtwesen
+* Auftritte
+	* Ori and the Blind Forest (Definite Edition)
+	* Ori and the Will of the Wisps
+* Familie
+	* Naru (Adoptivmutter)
+	* Geisterbaum (Vater)
+	* Gumo (Freund)
+	* Ku (Adoptivschwester)
+* Verbündete
+	* Sein
+	* Seir
+* Charakter
+	* gutherzig
+	* hilfsbereit
+	* ehrgeizig
+	* sportlich
+* Hobbies
+	* Parcour
+	* Fallschirmgleiten
+	* Kämpfen
