@@ -34,3 +34,9 @@ Der Geisterbaum ruft Jahre später nach Ori, der dem Ruf aber nicht nachkommt. D
 	* Parcour
 	* Fallschirmgleiten
 	* Kämpfen
+
+Ori:
+> I embraced the light
+> When my name was Ori.
+> It was the will of the wisps
+> That life begin anew.
